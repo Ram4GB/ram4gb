@@ -8,6 +8,7 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 
 - [Bien Ngoc Kim Ngan portfolio](https://bnkn-portfolio.vercel.app/)
 - [PN Tech](https://pntech.vn/)
+- [Potico]https://potico-clone.vercel.app/
 
 ## Contributions
 
