@@ -8,8 +8,9 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 
 - [Bien Ngoc Kim Ngan portfolio](https://bnkn-portfolio.vercel.app/)
 - [Potico](https://potico-clone.vercel.app/)
-- [PN Tech](https://pntech.vn/)
 - [Zoom](https://github.com/Ram4GB/ZoomMeetApp)
+- [Quilljs](https://github.com/cuongle-hdwebsoft/quilljs)
+- [SGU Ranking](https://sgu-rank-fe.vercel.app/)
 
 ## Contributions
 
@@ -22,3 +23,6 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 ### Vue Tel Input
 
 - [Telphone's dropdown does not open when changing arrow-icon slot](https://github.com/iamstevendao/vue-tel-input/pull/414)
+
+### React hook form
+- [issue: watch returns undefined when rendering more than twice and useForm set shouldUnregister to true](https://github.com/react-hook-form/react-hook-form/issues/11322)
