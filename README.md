@@ -12,6 +12,9 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 - [Quilljs](https://github.com/cuongle-hdwebsoft/quilljs)
 - [SGU Ranking](https://sgu-rank-fe.vercel.app/)
 
+## My social link
+- [Leet code](https://leetcode.com/u/Ram4GB/)
+
 ## Contributions
 
 ### Element plus
