@@ -30,4 +30,4 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 ### React hook form
 - [issue: watch returns undefined when rendering more than twice and useForm set shouldUnregister to true](https://github.com/react-hook-form/react-hook-form/issues/11322)
 
-![](https://komarev.com/ghpvc/?username=Ram4GB&color=brightgreen&label=flat)
+![](https://komarev.com/ghpvc/?username=Ram4GB&color=brightgreen&label=profile+view)
