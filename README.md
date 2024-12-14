@@ -13,7 +13,7 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 - [SGU Ranking](https://sgu-rank-fe.vercel.app/)
 
 ## My social link
-- [Leet code](https://leetcode.com/u/Ram4GB/)
+- https://www.facebook.com/le.minhcuong.9638/
 
 ## Contributions
 
