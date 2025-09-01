@@ -15,6 +15,10 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 ## My social link
 - https://www.facebook.com/le.minhcuong.9638/
 
+## My hobbies
+
+- https://leetcode.com/u/Ram4GB/
+
 ## Contributions
 
 ### Element plus
