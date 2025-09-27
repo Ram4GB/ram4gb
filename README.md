@@ -17,7 +17,11 @@ Hi everyone, my name is Cuong. I am a front-end developer. My favorite language 
 
 ## My hobbies
 
-- https://leetcode.com/u/Ram4GB/
+https://leetcode.com/u/Ram4GB/
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ram4gb?theme=dark&font=Roboto&ext=activity)
+
+https://app.wele-learn.com/profile/cuong_le/45637
 
 ## Contributions
 
