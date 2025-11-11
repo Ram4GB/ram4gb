@@ -24,7 +24,8 @@ https://leetcode.com/u/Ram4GB/
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ram4gb?theme=dark&font=Roboto&ext=activity)
 
 https://app.wele-learn.com/share/profile-overview/leminhcuong2988/45637
-![Wele Profile](https://wele-github-profile.vercel.app/api/user/profile-markdown?id=45637)
+
+![Wele Profile](https://wele-github-profile.vercel.app/api/profile.svg?id=45637)
 
 ## Contributions
 
